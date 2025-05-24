@@ -15,3 +15,8 @@ Ok im going to use the XIAO RP2350 and a screen.
 ## Hour 10:26
 Added the screen! going to add the switches.
 ![the circuit](assets/image.png)
+## Hour 11:52
+Ok i added the Switches and screen.
+## Hour 12:11
+I finished the pcb part! Now i need to do the wireing.
+![pcb](assets/image2.png)
