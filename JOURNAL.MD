@@ -1,7 +1,7 @@
 ---
 title: "Lucas11 Dev Board"
 author: "Lucas11"
-description: "An fast Dev Board for prototyping"
+description: "An fast Dev Board for prototyping and just making projects without soldering every time."
 created_at: "2025-05-23"
 ---
 # My Dev Board
