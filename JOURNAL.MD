@@ -20,3 +20,8 @@ Ok i added the Switches and screen.
 ## Hour 12:11
 I finished the pcb part! Now i need to do the wireing.
 ![pcb](assets/image2.png)
+## Hour 13:41
+Finished all the PCB!!!!
+In one day!!!
+![finished pcb](assets/image3.png)
+![3d pcb](assets/image4.png)
