@@ -16,6 +16,18 @@ neo = NeoPixel(pin, 1)   # create NeoPixel driver on GPIO48 for 1 pixel
 neo[0] = (255, 255, 255) # set the first pixel to white
 neo.write()              # write data to all pixels
 r, g, b = neo[0]         # get first pixel colour
+# This is the code for the OLED.
+# create I2C interface
+i2c = machine.I2C(1, sda=board.D4, scl=board.D5)
+print(i2c.scan())
+
+# create SSD1306 interface
+display_width:int = 128
+display_height:int = 64
+oled = ssd1306.SSD1306_I2C(128, 64, i2c)
+# display text
+oled.text("Hello, world!", 0, 0) # print text "Hello, world!" at position (0, 0) (top left)
+oled.show()
 # Add the macro extension
 macros = Macros()
 keyboard.modules.append(macros)

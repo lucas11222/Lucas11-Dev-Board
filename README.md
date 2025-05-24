@@ -4,4 +4,10 @@
 ## But how it works?
 Its a board with MX switches, OLED screen, MINI-E leds, and all-in-one using the power of the XIAO RP2350.
 ## How to use?
-Use the example_firmware to start.
+First install the SSD1406 module with this
+```
+cd example_firmware
+cd lib
+mpremote mip install ./ssd1306.py
+```
+Then use the example_firmware to start programing in the board.
