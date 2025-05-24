@@ -2358,7 +2358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 144.78 33.02 0)
 			(effects
 				(font
@@ -2644,7 +2644,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 132.08 33.02 0)
 			(effects
 				(font
@@ -2778,7 +2778,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OPL:XIAO-RP2350-SMD"
 			(at 88.9 41.91 0)
 			(effects
 				(font
@@ -3073,7 +3073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OLED_Screen:SSD1306-0.91-OLED-4pin-128x32"
 			(at 50.8 39.37 0)
 			(effects
 				(font
@@ -3147,7 +3147,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 157.48 33.02 0)
 			(effects
 				(font
@@ -3358,7 +3358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 170.18 33.02 0)
 			(effects
 				(font
