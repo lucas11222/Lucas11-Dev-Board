@@ -25,3 +25,6 @@ Finished all the PCB!!!!
 In one day!!!
 ![finished pcb](assets/image3.png)
 ![3d pcb](assets/image4.png)
+## Hour 14:04
+Fixed all the DRC errors.
+# Finished at 14:04.
